@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+
+}
+.header{
+    background-color: green;
+    text-align: center;
+    padding:12px;
+    margin-left: -8px;
+    margin-right: -8px;
+    border: 9px  solid white;
+}
+.menu{
+    float: left;
+    padding:16% 15.5%;
+    padding-top: 10px;
+    background-color: navy;
+    border-bottom: 0px solid white;
+
+}
+.content{
+    background-color: skyblue;
+   
+    float: left;
+    padding:16% 15%;
+    padding-top: 10px;
+    border-bottom: 0px solid white;
+   
+}
+.sidebar{
+    float:right;
+    background-color: orange;
+    padding:16% 15%;
+    padding-top: 10px;
+    border-bottom: 0px solid white;
+  
+}
+.footer{
+    
+    background-color:coral;
+    padding:16px;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-top: 283px solid white;
+}

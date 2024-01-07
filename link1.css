@@ -1,0 +1,27 @@
+.links{
+    color:green;
+    /*background-color: yellow;*/
+    text-align: justify;
+}
+.links a{
+    color:orange;
+
+}
+
+
+.links a:link{
+    color: brown;
+}
+.links a:visited{
+    color:yellow;
+}
+.links a:hover{
+    color:blue;
+    font-size: large;
+}
+.links a:active{
+    color:black;
+
+}
+
+
